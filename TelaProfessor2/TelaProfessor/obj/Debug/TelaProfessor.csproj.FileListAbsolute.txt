@@ -1,0 +1,47 @@
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe.config
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.pdb
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csprojResolveAssemblyReference.cache
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Form1.resources
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Properties.Resources.resources
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csproj.GenerateResource.Cache
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.exe
+c:\users\charles\documents\visual studio 2015\Projects\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.pdb
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe.config
+G:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.exe
+G:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.pdb
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.pdb
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\mscorlib.dll
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\pt-BR\mscorlib.resources.dll
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\normidna.nlp
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\normnfc.nlp
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\normnfd.nlp
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\normnfkc.nlp
+G:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\normnfkd.nlp
+G:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csprojResolveAssemblyReference.cache
+G:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Form1.resources
+G:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Properties.Resources.resources
+G:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csproj.GenerateResource.Cache
+E:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe.config
+E:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.exe
+E:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.pdb
+E:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe
+E:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.pdb
+E:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csprojResolveAssemblyReference.cache
+E:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.TelaProf.resources
+E:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Properties.Resources.resources
+E:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.TelaCoordenador.resources
+E:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csproj.GenerateResource.Cache
+F:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe.config
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.exe
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.pdb
+F:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe
+F:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.pdb
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csprojResolveAssemblyReference.cache
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.TelaProf.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Properties.Resources.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.TelaCoordenador.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.csproj.GenerateResource.Cache
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Form1.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaLogin.Form1.resources

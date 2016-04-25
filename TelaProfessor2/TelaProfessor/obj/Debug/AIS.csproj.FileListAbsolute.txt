@@ -1,0 +1,23 @@
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Properties.Resources.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\AIS.csproj.GenerateResource.Cache
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.exe
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.pdb
+F:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe.config
+F:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe
+F:\Desenv C#\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.pdb
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaProf.TelaProf.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaCoordenador.TelaCoordenador.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\TelaLogin.TelaLogin.resources
+F:\Desenv C#\TelaProfessor\TelaProfessor\obj\Debug\AIS.csprojResolveAssemblyReference.cache
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\bin\Debug\TelaProfessor.exe.config
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.exe
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.pdb
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\AIS.csprojResolveAssemblyReference.cache
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\TelaProf.TelaProf.resources
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\TelaProfessor.Properties.Resources.resources
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\TelaCoordenador.TelaCoordenador.resources
+C:\Users\charles\Desktop\TelaProfessor\TelaProfessor\obj\Debug\AIS.csproj.GenerateResource.Cache
+F:\Pendriver\TelaProfessor2\TelaProfessor\bin\Debug\TelaProfessor.exe.config
+F:\Pendriver\TelaProfessor2\TelaProfessor\obj\Debug\TelaProfessor.exe
+F:\Pendriver\TelaProfessor2\TelaProfessor\obj\Debug\TelaProfessor.pdb
